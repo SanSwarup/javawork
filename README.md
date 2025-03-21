@@ -1,2 +1,2 @@
-# javawork
-going through java
+# javaproject
+showcase of using operator and userinput

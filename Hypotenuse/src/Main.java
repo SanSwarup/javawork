@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//right angel triangle
+//right angel triangle//
 
 public class Main {
     public static void main(String[] args){
